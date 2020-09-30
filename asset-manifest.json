@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/two-way-binding-react/static/css/main.7c51b0a1.chunk.css",
+    "main.js": "/two-way-binding-react/static/js/main.098fc5a1.chunk.js",
+    "main.js.map": "/two-way-binding-react/static/js/main.098fc5a1.chunk.js.map",
+    "runtime-main.js": "/two-way-binding-react/static/js/runtime-main.eb1fa4f1.js",
+    "runtime-main.js.map": "/two-way-binding-react/static/js/runtime-main.eb1fa4f1.js.map",
+    "static/js/2.994555d7.chunk.js": "/two-way-binding-react/static/js/2.994555d7.chunk.js",
+    "static/js/2.994555d7.chunk.js.map": "/two-way-binding-react/static/js/2.994555d7.chunk.js.map",
+    "index.html": "/two-way-binding-react/index.html",
+    "precache-manifest.90df945bc26b54fede6a266679666c2a.js": "/two-way-binding-react/precache-manifest.90df945bc26b54fede6a266679666c2a.js",
+    "service-worker.js": "/two-way-binding-react/service-worker.js",
+    "static/css/main.7c51b0a1.chunk.css.map": "/two-way-binding-react/static/css/main.7c51b0a1.chunk.css.map",
+    "static/js/2.994555d7.chunk.js.LICENSE.txt": "/two-way-binding-react/static/js/2.994555d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1fa4f1.js",
+    "static/js/2.994555d7.chunk.js",
+    "static/css/main.7c51b0a1.chunk.css",
+    "static/js/main.098fc5a1.chunk.js"
+  ]
+}
