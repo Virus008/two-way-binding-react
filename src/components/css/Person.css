@@ -1,0 +1,15 @@
+#resultbox {
+    border: 1px solid #ced4da;
+    overflow-x: scroll;
+    position: relative;
+    overflow-y: hidden;
+    background-color: #E9ECEF;
+    color: #000000;
+    border-radius: 0.25rem;
+}
+
+@media screen and (max-width: 767px) {
+    #display-result {
+        margin-top: 1rem;
+    }
+}
